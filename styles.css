@@ -2,3 +2,29 @@
     background-color: lightgray;
     font-size: x-large;
 }
+h1{
+    text-align: center;
+    border-style: dashed;color: rgb(102, 143, 143);
+    margin-top: 50px;
+   
+}
+
+button{
+        padding: 35px;
+        margin-left: 825px;
+        margin-top: 400px;
+        background-color:snow;
+        font-weight: bolder;
+        border-width: 5px;
+        }
+.brocoli{
+    border-style: groove;
+    border-width: 10px;
+    margin-top: 200px;
+
+}
+#rib{
+    border-style: double;
+    border-width: 10px;color: rgb(91, 124, 113);
+    text-align: right;
+}
