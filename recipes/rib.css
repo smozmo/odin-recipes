@@ -1,0 +1,22 @@
+*{
+    background-color: aqua;
+}
+
+img{
+    width: 259px;
+    height: 194px;
+}
+h1,
+h3,
+h4{
+    color: blueviolet;
+    font-family: "Cursive",sans-serif;
+    text-shadow: 10px;
+    text-align: center;
+}
+ol li::marker{
+    color: blueviolet;
+}
+ul li::marker{
+    color: blueviolet;
+}

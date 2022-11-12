@@ -1,0 +1,12 @@
+*{
+    background-color: lightblue;
+    text-align: center;
+}
+.title,
+p{
+    text-align: center;
+}
+h4,
+li{
+    text-align: left;
+}
